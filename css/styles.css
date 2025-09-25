@@ -20,7 +20,10 @@ width: 1000px;
 .flex-container {
   display: flex;
   flex-direction: row;
+  background-color: black;
 }
+
+
 .footer {color: rgb(197, 194, 19);
   text-align: center;}
   .Yellowtext {color: rgb(255, 217, 0);}
