@@ -31,6 +31,7 @@ ul li a {
 
 ul li a:hover {
   background-color: #180180;
+  border-radius: 25px;
   
 }
 height: 2150px;
@@ -43,6 +44,7 @@ width: 1000px;
 .button {
   background-color: rgb(170, 147, 1);
   border: none;
+  border-radius: 25px;
   color: white;
   padding: 7px 8px;
   text-align: center;
@@ -54,6 +56,7 @@ width: 1000px;
 }
 .grid-container {
   display: grid;
+  border-radius: 25px;
   grid-template-columns: auto auto auto auto;
    background-color: rgba(12, 13, 105, 0.61);
 
@@ -62,6 +65,7 @@ width: 1000px;
 .flex-container {
   display: flex;
   flex-direction: row;
+  border-radius: 25px;
   background-color: rgba(12, 13, 105, 0.61);
   text-align: center;
 }
@@ -69,6 +73,7 @@ width: 1000px;
 .title {
   display: center;
   flex-direction: center;
+  border-radius: 25px;
   background-color: rgba(12, 13, 105, 0.61);
   text-align: center;
   color: white;
@@ -83,6 +88,7 @@ width: 1000px;
 
   .liststuff {color: rgb(255, 255, 255);
     background-color: rgba(91, 73, 0, 0.61);
+    border-radius: 25px;
     text-align: center;
     list-style-type: none;
   font-size:20px;}
