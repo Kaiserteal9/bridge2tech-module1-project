@@ -8,7 +8,7 @@ background-image: url(../images/Shiriancruiseliner.png);
   background-position: center;
 background-color: rgb(0, 0, 0);
 
-/* Box model  stuff below */
+/* Box model and hover effect stuff below */
 ul {
   list-style-type: none;
   margin: 0;
@@ -76,6 +76,7 @@ width: 1000px;
   border-radius: 25px;
   background-color: rgba(12, 13, 105, 0.61);
   text-align: center;
+  font-style: italic;
   color: white;
   font-size: 30px;
   
